@@ -374,7 +374,7 @@ public class MainActivity extends AppCompatActivity {
             printDatabase();
         }
     }
-    public void pressHPlus(View view).
+    public void pressHPlus(View view)
     {
         if(now<last)
         {
